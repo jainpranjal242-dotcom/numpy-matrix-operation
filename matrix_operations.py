@@ -1,6 +1,6 @@
 """
 NumPy Matrix Operations
-Author: Ayush Rajput
+Author: pranjal jain
 Description: Create two matrices and perform addition, subtraction,
 matrix multiplication, and transpose operations.
 """
